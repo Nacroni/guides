@@ -1,5 +1,6 @@
 # guides
- Guides for devices
+
+Guides for devices
 
 ## What is this repository for?
 
