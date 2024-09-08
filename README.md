@@ -6,6 +6,6 @@ Guides for devices
 
 This repository is for people who want to know more on how to use their devices.
 
-## Licenses
+> guides © 2024 by Nacroni is licensed under CC BY-NC-SA 4.0. To view a copy of this license, visit [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-This repo uses the [GNU GPL v3](https://www.gnu.org/licenses/gpl-3.0.html) license. This license states that you are free to use, modify, and share this work.
+[![CC BY-NC-SA](/.media/CC%20BY-NC-SA.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
